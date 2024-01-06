@@ -2,8 +2,6 @@
 
 - Hiii My name is Gao Yiming. I'm 18 and studying Computer Science in NTU. 
 
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
