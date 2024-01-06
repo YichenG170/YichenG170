@@ -24,6 +24,16 @@
 
 ---
 
+### :computer: Project I've Worked on: 
+
+## NTU Projects: 
+[SC1015 Mini-Project](https://github.com/YichenG170/SC1015_TUTB113_Team11_Mini-Project)
+
+## Projects out of NTU: 
+[Wooden-Fish](https://github.com/hellohi-ll/Electronic-MuYu)
+
+---
+
 ### :hammer_and_wrench: Languages and Tools : 
 
 <div>
