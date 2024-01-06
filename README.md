@@ -44,7 +44,6 @@
   <img src="./icons/CSS.svg" width="48">
   <img src="./icons/GoLang.svg" width="48">
   <img src="./icons/HTML.svg" width="48">
-  <img src="./icons/Illustrator.svg" width="48">
   <img src="./icons/Java-Dark.svg" width="48">
   <img src="./icons/JavaScript.svg" width="48">
   <img src="./icons/Python-Dark.svg" width="48">
