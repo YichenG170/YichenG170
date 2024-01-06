@@ -2,9 +2,13 @@
 
 - Hiii My name is Gao Yiming. I'm 18 and studying Computer Science in NTU. 
 
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+
 
 ### :man_technologist: About Me :
 
@@ -18,8 +22,30 @@
 
 - :mailbox: Email address: GAOY0053@e.ntu.edu.sg
 
+
+
 ### :hammer_and_wrench: Languages and Tools : 
 
 <div>
   <img src="./icons/C.svg" width="48">
+  <img src="./icons/CS.svg" width="48">
+  <img src="./icons/CPP.svg" width="48">
+  <img src="./icons/CSS.svg" width="48">
+  <img src="./icons/Github-Dark.svg" width="48">
+  <img src="./icons/Gmail-Dark.svg" width="48">
+  <img src="./icons/GoLang.svg" width="48">
+  <img src="./icons/HTML.svg" width="48">
+  <img src="./icons/Idea-Dark.svg" width="48">
+  <img src="./icons/Illustrator.svg" width="48">
+  <img src="./icons/Instagram.svg" width="48">
+  <img src="./icons/Java-Dark.svg" width="48">
+  <img src="./icons/JavaScript.svg" width="48">
+  <img src="./icons/NodeJS-Dark.svg" width="48">
+  <img src="./icons/Powershell-Dark.svg" width="48">
+  <img src="./icons/Python-Dark.svg" width="48">
+  <img src="./icons/R-Dark.svg" width="48">
+  <img src="./icons/RaspberryPi-Dark.svg" width="48">
+  <img src="./icons/React-Dark.svg" width="48">
+  <img src="./icons/VisualStudio-Dark.svg" width="48">
+  <img src="./icons/VSCode-Dark.svg" width="48">
 </div>
