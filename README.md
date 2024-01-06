@@ -31,7 +31,7 @@
 
 [SC2002 - Group-Project - CAMs System](https://github.com/regan91/SC2002-Group-Project)
 
-#### Projects out of NTU: 
+#### Projects outside NTU: 
 [Wooden-Fish](https://github.com/hellohi-ll/Electronic-MuYu)
 
 ---
