@@ -28,7 +28,6 @@
 
 <div>
   <img src="./icons/C.svg" width="48">
-  <img src="./icons/CS.svg" width="48">
   <img src="./icons/CPP.svg" width="48">
   <img src="./icons/CSS.svg" width="48">
   <img src="./icons/GoLang.svg" width="48">
