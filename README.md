@@ -28,6 +28,7 @@
 
 #### NTU Projects: 
 [SC1015 - Mini-Project - Analysis of Fright Delay](https://github.com/YichenG170/SC1015_TUTB113_Team11_Mini-Project)
+
 [SC2002 - Group-Project - CAMs System](https://github.com/regan91/SC2002-Group-Project)
 
 #### Projects out of NTU: 
