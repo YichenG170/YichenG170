@@ -1,4 +1,4 @@
-### :smiley: Welcome !
+### :smiley: Welcome ! 
 
 - Hiii My name is Gao Yiming. I'm 18 and studying Computer Science in NTU. 
 
@@ -10,7 +10,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me : 
 
 - :telescope: I’m a 2nd year Computer Science undergraduate in Nanyang Technological University. 
 
@@ -24,7 +24,7 @@
 
 ---
 
-### :computer: Project I've Worked on: 
+### :computer: Project I've Worked on : 
 
 #### NTU Projects: 
 [SC1015 - Mini-Project - Analysis of Fright Delay](https://github.com/YichenG170/SC1015_TUTB113_Team11_Mini-Project)
