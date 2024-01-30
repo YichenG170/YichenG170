@@ -34,6 +34,8 @@
 #### Projects outside NTU: 
 [Wooden-Fish](https://github.com/hellohi-ll/Electronic-MuYu)
 
+[Quiz Simulator](https://github.com/YichenG170/Quiz-Simulator)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools : 
