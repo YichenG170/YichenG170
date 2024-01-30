@@ -16,7 +16,7 @@
 
 - :seedling: I'm currently learning DRL & FDD in HVAC system.
 
-- :smiling_face_with_three_hearts: Guitar, table tennis and strategy games. 
+- :smiling_face_with_three_hearts: I like guitar, table tennis and strategy games. 
 
 - :zap: In my free time, I try to make some simple offline-games. 
 
