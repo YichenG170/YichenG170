@@ -14,7 +14,7 @@
 
 - :telescope: I’m a 2nd year Computer Science undergraduate in Nanyang Technological University. 
 
-- :seeding: I'm currently learning distributed systems.
+- :seedling: I'm currently learning distributed systems.
 
 - :smiling_face_with_three_hearts: Guitar, table tennis and strategy games. 
 
