@@ -1,6 +1,6 @@
 ### :smiley: Welcome ! 
 
-- Hiii My name is Gao Yiming. I'm 18 and studying Computer Science in NTU. 
+- Hiii My name is Gao Yiming. I'm 19 and studying Computer Science in NTU. 
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me : 
 
-- :telescope: I’m a 2nd year Computer Science undergraduate in Nanyang Technological University. 
+- :telescope: I’m a 3rd year Computer Science undergraduate in Nanyang Technological University. 
 
 - :seedling: I'm currently learning DRL & FDD in HVAC system.
 
