@@ -14,7 +14,7 @@
 
 - :telescope: I’m a 3rd year Computer Science undergraduate in Nanyang Technological University. 
 
-- :seedling: I'm currently learning DRL & FDD in HVAC system.
+- :seedling: I'm currently studying DRL & FDD in HVAC system.
 
 - :smiling_face_with_three_hearts: I like guitar, table tennis and strategy games. 
 
