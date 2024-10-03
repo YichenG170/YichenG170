@@ -31,6 +31,8 @@
 
 [SC2002 - Group-Project - CAMs System](https://github.com/regan91/SC2002-Group-Project)
 
+[SC2079 - Multidisciplinary Design Project - Algorithm](https://github.com/YichenG170/SC2079_MDP_ALGO)
+
 #### Projects outside NTU: 
 [Wooden-Fish](https://github.com/hellohi-ll/Electronic-MuYu)
 
