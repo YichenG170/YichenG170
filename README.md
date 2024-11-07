@@ -61,7 +61,6 @@
   <img src="./icons/Python-Dark.svg" width="48">
   <img src="./icons/R-Dark.svg" width="48">
   <img src="./icons/React-Dark.svg" width="48">
-  <img src="./icons/MFile.svg" width="48">
 </div>
 
 <div>
@@ -72,7 +71,7 @@
   <img src="./icons/RaspberryPi-Dark.svg" width="48">
   <img src="./icons/VisualStudio-Dark.svg" width="48">
   <img src="./icons/VSCode-Dark.svg" width="48">
-  <img src="./icons/Matlab.svg" width="48">
+  <img src="./icons/Matlab-Dark.svg" width="48">
 </div>
 
 ---
