@@ -31,12 +31,20 @@
 
 [SC2002 - Group-Project - CAMs System](https://github.com/regan91/SC2002-Group-Project)
 
+[SC2006 - Group-Project - Recipe App](https://github.com/YichenG170/Recipe-APP)
+
 [SC2079 - Multidisciplinary Design Project - Algorithm](https://github.com/YichenG170/SC2079_MDP_ALGO)
+
+[SC4000 - Group Project](https://github.com/YichenG170/SC4000-Group-Project)
+
+[SC4001 - Group Assignment](https://github.com/YichenG170/SC4001-Group-Assignment)
 
 #### Projects outside NTU: 
 [Wooden-Fish](https://github.com/hellohi-ll/Electronic-MuYu)
 
 [Quiz Simulator](https://github.com/YichenG170/Quiz-Simulator)
+
+[Self-made Auto Chess](https://github.com/YichenG170/Auto-Chess-Beta)
 
 ---
 
@@ -59,7 +67,6 @@
   <img src="./icons/Github-Dark.svg" width="48">
   <img src="./icons/Gmail-Dark.svg" width="48">
   <img src="./icons/Idea-Dark.svg" width="48">
-  <img src="./icons/Instagram.svg" width="48">
   <img src="./icons/NodeJS-Dark.svg" width="48">
   <img src="./icons/Powershell-Dark.svg" width="48">
   <img src="./icons/RaspberryPi-Dark.svg" width="48">
