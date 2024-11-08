@@ -1,6 +1,6 @@
 ### :smiley: Welcome ! 
 
-- Hiii My name is Gao Yiming. I'm 19 and studying Computer Science in NTU. 
+- Hiii My name is Gao Yiming. I'm 19 and studying Computer Science in Nanyang Technological University, Singapore. 
 
 ---
 
@@ -14,17 +14,17 @@
 
 - :telescope: I’m a 3rd year Computer Science undergraduate in Nanyang Technological University. 
 
-- :seedling: I'm currently studying DRL & FDD in HVAC system.
+- :seedling: I'm currently studying Neural Networks.
 
 - :smiling_face_with_three_hearts: I like guitar, table tennis and strategy games. 
 
 - :zap: In my free time, I try to make some simple offline-games. 
 
-- :mailbox: Email address: GAOY0053@e.ntu.edu.sg
+- :mailbox: School email address: GAOY0053@e.ntu.edu.sg
 
 ---
 
-### :computer: Project I've Worked on : 
+### :computer: Projects I've Worked on : 
 
 #### NTU Projects: 
 [SC1015 - Mini-Project - Analysis of Fright Delay](https://github.com/YichenG170/SC1015_TUTB113_Team11_Mini-Project)
