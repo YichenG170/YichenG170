@@ -44,7 +44,7 @@
 
 [Quiz Simulator](https://github.com/YichenG170/Quiz-Simulator)
 
-[Self-made Auto Chess](https://github.com/YichenG170/Auto-Chess-Beta)
+[Card_Game](https://github.com/YichenG170/Auto-Chess-Beta)
 
 ---
 
