@@ -1,6 +1,6 @@
 ### :smiley: Welcome ! 
 
-- Hiii My name is Gao Yiming. I'm 19 and studying Computer Science in Nanyang Technological University, Singapore. 
+- Hii, I'm 19 and studying Computer Science in Nanyang Technological University, Singapore. 
 
 ---
 
