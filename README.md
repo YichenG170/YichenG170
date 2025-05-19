@@ -1,3 +1,4 @@
+<!--
 ### :smiley: Welcome ! 
 
 - Hii, I'm 19 and studying Computer Science in Nanyang Technological University, Singapore. 
@@ -77,3 +78,5 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YichenG170&show_icons=true&theme=radical)
+
+-->
