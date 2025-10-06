@@ -1,7 +1,5 @@
 ### :smiley: Welcome ! 
 
-- Hii, I'm 29 and studying Computer Science in Nanyang Technological University, Singapore. 
-
 ---
 
 <div align="center">
