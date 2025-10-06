@@ -1,6 +1,6 @@
 ### :smiley: Welcome ! 
 
-- Hii, I'm 19 and studying Computer Science in Nanyang Technological University, Singapore. 
+- Hii, I'm 29 and studying Computer Science in Nanyang Technological University, Singapore. 
 
 ---
 
@@ -12,13 +12,11 @@
 
 ### :man_technologist: About Me : 
 
-- :telescope: I’m a 3rd year Computer Science undergraduate in Nanyang Technological University. 
+- :telescope: I’m a 4th year Computer Science undergraduate in Nanyang Technological University. 
 
-- :seedling: I'm currently having an internship in A*.
+- :seedling: I'm currently doing my Final Year Project in NTU CCDS SLAB.
 
-- :smiling_face_with_three_hearts: I like guitar, table tennis and strategy games. 
-
-- :zap: In my free time, I try to make some simple offline-games. 
+- :smiling_face_with_three_hearts: My research interest is multimodal large language model evaluations. 
 
 - :mailbox: School email address: GAOY0053@e.ntu.edu.sg
 
@@ -40,11 +38,18 @@
 [SC4001 - Group Assignment](https://github.com/YichenG170/SC4001-Group-Assignment)
 
 #### Projects outside NTU: 
+
+[AudioBench](https://github.com/AudioLLMs/AudioBench)
+
+[The Evaluation Suite of Large Multimodal Models](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+
+#### Others:
+
 [Wooden-Fish](https://github.com/hellohi-ll/Electronic-MuYu)
 
-[Quiz Simulator](https://github.com/YichenG170/Quiz-Simulator)
-
 [Card_Game](https://github.com/YichenG170/Auto-Chess-Beta)
+
+[ClassGuru Plugins](https://github.com/YichenG170/classguru_plugins)
 
 ---
 
