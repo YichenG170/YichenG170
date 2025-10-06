@@ -45,6 +45,8 @@
 
 [Wooden-Fish](https://github.com/hellohi-ll/Electronic-MuYu)
 
+[Quiz-Simulator](https://github.com/YichenG170/Quiz-Simulator)
+
 [Card_Game](https://github.com/YichenG170/Auto-Chess-Beta)
 
 [ClassGuru Plugins](https://github.com/YichenG170/classguru_plugins)
