@@ -1,4 +1,4 @@
-### :smiley: Welcome ! 
+### :smiley: Hii ! 
 
 ---
 
@@ -14,7 +14,7 @@
 
 - :seedling: I'm currently doing my Final Year Project in NTU CCDS SLAB.
 
-- :smiling_face_with_three_hearts: My research interest is multimodal large language model evaluations. 
+- :smiling_face_with_three_hearts: My research interest is on multimodal large language models. 
 
 - :mailbox: School email address: GAOY0053@e.ntu.edu.sg
 
@@ -35,7 +35,7 @@
 
 [SC4001 - Group Assignment](https://github.com/YichenG170/SC4001-Group-Assignment)
 
-#### Projects outside NTU: 
+#### Works outside NTU: 
 
 [AudioBench](https://github.com/AudioLLMs/AudioBench)
 
