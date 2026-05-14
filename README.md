@@ -10,13 +10,11 @@
 
 ### :man_technologist: About Me : 
 
-- :telescope: I’m a 4th year Computer Science undergraduate in Nanyang Technological University. 
-
-- :seedling: I'm currently doing my Final Year Project in NTU CCDS SLAB.
+- :telescope: I’m a 1th year Computer Science PhD in Nanyang Technological University. 
 
 - :smiling_face_with_three_hearts: My research interest is on multimodal large language models. 
 
-- :mailbox: School email address: GAOY0053@e.ntu.edu.sg
+- :mailbox: School email address: GAOY0080@e.ntu.edu.sg
 
 ---
 
